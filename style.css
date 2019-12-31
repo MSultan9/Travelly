@@ -351,4 +351,8 @@ footer ul {
     footer h5 {
         padding-bottom: 3rem;
     }
+
+    #back-to-top {
+        display: none!important;
+    }
 }
